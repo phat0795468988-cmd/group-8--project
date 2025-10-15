@@ -1,0 +1,3 @@
+- Chấn Huy vai trò Backend
+- Thành Phát vai trò Frontend
+- Minh Tân vai trò Database
